@@ -10,8 +10,11 @@ guess = int(input("Take a guess: "))
 
 while secret_number != guess and attempts < 6:
 
-    if guess < secret_number:
-        print("Higher...")
+    bbnfjihjffghihuiwerurwefgrufihyrfguor
+    rgrigruiigug
+    
+    
+    r4guoir
     elif guess > secret_number:
         print("Lower...")
     guess = int(input("Take a guess: "))
